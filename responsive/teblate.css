@@ -1,0 +1,67 @@
+@media all and (max-width:806px) {
+    /* teblate css start */
+    .header-left img {
+        width: 91px;
+    }
+    .header-left {
+        width: 100%;
+        text-align: center;
+    }
+    .header-right ul li a {
+        border: none;
+    }
+    .header-right ul {
+        list-style: none;
+        text-align: center;
+    }
+    .header-right {
+        width: 100%;
+    }
+    .header-right ul li:nth-child(1) a {
+        border-left: none;
+    }
+    .baner-section {
+        padding: 59px 0px;
+        background: url(https://media.istockphoto.com/photos/businessman-working-on-laptop-panoramic-business-banner-with-copy-picture-id1257243137?b=1&k=6&m=1257243137&s=170667a&w=0&h=u4zTmSBvQ1R_mfsKTU-uzUOA6XCGuiwIqmjA4QSpBro=);
+    }
+    .service-item {
+        width: 100%;
+        margin: 10px 0px;
+    }
+    .about h2 {
+        font-size: 26px;
+        margin-bottom: 20px;
+    }
+    .about p {
+        font-size: 14px;
+    }
+    .blog-left-content {
+        float: left;
+        width: 100%;
+    }
+    .blog-right-noti {
+        width: 100%;
+        position: initial;
+        text-align: center;
+    }
+    .blog-right-noti ul li {
+        margin-top: 35px;
+    }
+    .footer-left {
+        font-size: 15px;
+        width: 100%;
+        text-align: center;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+    .footer-right {
+        float: right;
+        width: 100%;
+    }
+
+
+
+
+    /* teblate css end */
+}
